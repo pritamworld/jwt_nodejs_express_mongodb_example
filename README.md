@@ -1,4 +1,4 @@
-# MongoDB + NodeJS + ExpressJs
+# JWT + MongoDB + NodeJS + ExpressJs
 
 ## Signup here for free
 
@@ -29,5 +29,5 @@ client.connect(err => {
 
 ## JWT Reference
 
-- https://www.digitalocean.com/community/tutorials/nodejs-jwt-expressjs
-- https://stackabuse.com/authentication-and-authorization-with-jwts-in-express-js/
+- <https://www.digitalocean.com/community/tutorials/nodejs-jwt-expressjs>
+- <https://stackabuse.com/authentication-and-authorization-with-jwts-in-express-js/>
